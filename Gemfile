@@ -66,6 +66,7 @@ end
 
 gem 'bootstrap', '~> 5.2.2'
 gem 'simple_form'
+gem 'devise'
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
