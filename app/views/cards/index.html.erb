@@ -23,6 +23,7 @@
 <div id="cards">
   <% @cards.each do |card| %>
     <%= render card %>
+    <img src="<%= card.image %>">
     <p>
       <%= link_to "Show this card", card %>
     </p>
