@@ -2,12 +2,14 @@
 
 one:
   title: MyString
-  chapo: MyText
-  paragraph: MyText
+  pv: MyString
+  attaque: MyText
+  description: MyText
   image: MyText
 
 two:
   title: MyString
-  chapo: MyText
-  paragraph: MyText
+  pv: MyString
+  attaque: MyText
+  description: MyText
   image: MyText
